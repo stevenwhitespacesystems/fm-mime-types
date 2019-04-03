@@ -227,9 +227,9 @@ A collection of FileMaker apps that communicate directly with popular 3rd party 
 <!-- MARKDOWN LINKS & IMAGES -->
 [filemaker-shield]: https://img.shields.io/badge/filemaker-%3E%3D%2012.0.0-009edb.svg
 [platform-shield]: https://img.shields.io/badge/platform-Pro%20%7C%20Go%20%7C%20Server%20%7C%20Webdirect%20%7C%20Cloud-purple.svg
-[contributors-shield]: https://img.shields.io/github/contributors/stevenwhitespacesystems/fm-mime-type.svg
+[contributors-shield]: https://img.shields.io/github/contributors/stevenwhitespacesystems/fm-mime-types.svg
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg
-[commit-shield]: https://img.shields.io/github/last-commit/stevenwhitespacesystems/fm-mime-type.svg
+[commit-shield]: https://img.shields.io/github/last-commit/stevenwhitespacesystems/fm-mime-types.svg
 [license-url]: https://choosealicense.com/licenses/mit
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&colorB=0077B5
 [linkedin-url]: https://www.linkedin.com/company/whitespace-systems-ltd/
