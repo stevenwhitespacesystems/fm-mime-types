@@ -41,7 +41,7 @@
 * [Usage](#usage)
   * [Installation](#installation)
   * [Quick Start](#quick-start)
-  * [Sample Conversions](#sample-conversions)
+  * [Sample MIME-types](#sample-mime-types)
   * [Parameters](#parameters)
 * [Contributing](#contributing)
 * [License](#license)
@@ -139,7 +139,7 @@ There are 2 fmp12 files provided here
 
 If you open the `fm-mime-types` file, you can drag a file onto a container field or enter a filename manually and get the MIME-type by pressing the `Get MIME-type` button.
 
-### Sample Conversions
+### Sample MIME-types
 
 | filename | MIME-type 
 |:----|:----------------|
