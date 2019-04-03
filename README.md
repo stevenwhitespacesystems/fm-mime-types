@@ -13,8 +13,6 @@
     <a href="https://github.com/stevenwhitespacesystems/fm-mime-types"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/stevenwhitespacesystems/fm-mime-types#demo">View Demo</a>
-    ·
     <a href="https://github.com/stevenwhitespacesystems/fm-mime-types/issues">Report Bug</a>
     ·
     <a href="https://github.com/stevenwhitespacesystems/fm-mime-types/issues">Request Feature</a>
@@ -45,7 +43,6 @@
   * [Quick Start](#quick-start)
   * [Sample Conversions](#sample-conversions)
   * [Parameters](#parameters)
-* [Demo](#demo)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
