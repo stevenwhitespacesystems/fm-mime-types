@@ -150,7 +150,7 @@ If you open the `fm-mime-types` file, you can drag a file onto a container field
 
 ### Parameters
 
-The parameters below can be used as for the script. Each parameter has to be followed by a carriage return (¶). The table below will state it's position in the parameters list.
+The parameters below can be used for the script. Each parameter has to be followed by a carriage return (¶). The table below will state it's position in the parameters list.
 
 | Position | `name` | Description |
 |:---------|:-------|:------------|
